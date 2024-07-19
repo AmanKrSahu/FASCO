@@ -1,0 +1,56 @@
+[
+    {
+        "imageSrc": "/Images/arrivals/colorful-dress.png",
+        "productName": "Colourfull Dress",
+        "rating": 4,
+        "productDetails": "AI Karam",
+        "review": "(4.1k) Customer Reviews",
+        "amount": "$95.50",
+        "sold": "Sold Out"
+    },
+    {
+        "imageSrc": "/Images/arrivals/full-sweater.png",
+        "productName": "Full Sweater",
+        "rating": 5,
+        "productDetails": "AI Karam",
+        "review": "(7.2k) Customer Reviews",
+        "amount": "$105.50",
+        "sold": "Sold Out"
+    },
+    {
+        "imageSrc": "/Images/arrivals/long-dress.png",
+        "productName": "Long Dress",
+        "rating": 3,
+        "productDetails": "AI Karam",
+        "review": "(4.3k) Customer Reviews",
+        "amount": "$98.50",
+        "sold": "Almost Sold Out"
+    },
+    {
+        "imageSrc": "/Images/arrivals/shiny-dress.png",
+        "productName": "Shiny Dress",
+        "rating": 4,
+        "productDetails": "AI Karam",
+        "review": "(3.9k) Customer Reviews",
+        "amount": "$95.50",
+        "sold": "Almost Sold Out"
+    },
+    {
+        "imageSrc": "/Images/arrivals/white-dress.png",
+        "productName": "White Dress",
+        "rating": 4,
+        "productDetails": "AI Karam",
+        "review": "(4.6k) Customer Reviews",
+        "amount": "$85.50",
+        "sold": "Sold Out"
+    },
+    {
+        "imageSrc": "/Images/arrivals/white-shirt.png",
+        "productName": "White Shirst",
+        "rating": 5,
+        "productDetails": "AI Karam",
+        "review": "(8.2k) Customer Reviews",
+        "amount": "$95.50",
+        "sold": "Almost Sold Out"
+    }
+]

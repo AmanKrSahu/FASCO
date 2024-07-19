@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Emily Johnson",
+        "designation": "Software Engineer",
+        "text": "The product selection is fantastic, and the delivery was incredibly fast. I couldn't be happier with my purchase!",
+        "rating": 5,
+        "img": "/Images/testimonials/Emily.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Michael Smith",
+        "designation": "Graphic Designer",
+        "text": "I am impressed with the quality of the items I received. They are both affordable and durable. Highly recommended!",
+        "rating": 4,
+        "img": "/Images/testimonials/Michael.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sophia Brown",
+        "designation": "Marketing Manager",
+        "text": "The customer service team was very helpful and resolved my issues quickly. A very pleasant shopping experience overall.",
+        "rating": 4,
+        "img": "/Images/testimonials/Sophia.jpg"
+    },
+    {
+        "id": 4,
+        "name": "James Davis",
+        "designation": "Entrepreneur",
+        "text": "The shipping was incredibly fast, and the items were well-packaged to ensure they arrived in perfect condition.",
+        "rating": 5,
+        "img": "/Images/testimonials/James.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Olivia Martinez",
+        "designation": "Accountant",
+        "text": "There is a wide range of products to choose from, and I found exactly what I needed at a great price.",
+        "rating": 4,
+        "img": "/Images/testimonials/Olivia.jpg"
+    }
+]
