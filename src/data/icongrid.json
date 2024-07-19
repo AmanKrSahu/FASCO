@@ -1,0 +1,23 @@
+[
+    { 
+        "imgSrc": "/Images/icons/icon-1.png", 
+        "title": "High Quality", 
+        "description": "crafted from top materials" 
+    },
+    { 
+        "imgSrc": "/Images/icons/icon-2.png", 
+        "title": "Warrany Protection", 
+        "description": "Over 2 years" 
+    },
+    { 
+        "imgSrc": "/Images/icons/icon-3.png", 
+        "title": "Free Shipping", 
+        "description": "Order over 150 $" 
+    },
+    { 
+        "imgSrc": "/Images/icons/icon-4.png", 
+        "title": "24/7 Support", 
+        "description": "Dedicated support" 
+    }
+
+]
